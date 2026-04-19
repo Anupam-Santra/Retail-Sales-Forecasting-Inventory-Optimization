@@ -358,9 +358,9 @@ Through this project, you will learn:
 ## 👤 Author
 
 **[Your Name]**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Anupam-Santra](https://github.com/Anupam-Santra)
+- LinkedIn: [Anupam Santra](https://www.linkedin.com/in/anupam-santra-615832277/)
+- Email: anupamsantra2003@gmail.com
 
 ---
 
